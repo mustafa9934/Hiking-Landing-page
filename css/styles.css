@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@400;500;600;700&family=Roboto:wght@300;400;500&display=swap');
+:root {
+  --color-primary: #0b1d26;
+  --color-secondary: #FBD784:
+}
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html {
+    font-size: 10px;
+}
+body {
+    font-size: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Kalnia', serif;
+}
